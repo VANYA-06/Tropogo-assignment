@@ -1,0 +1,415 @@
+body{
+    max-width: 100%;
+   
+}
+/* Container-1 */
+
+.container-1{
+    
+    display: flex;
+    background:#215ECD;
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    height: 100px;
+    border-color: #215ECD;
+    
+}
+/* Head-Logo */
+.logo{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+/* Contact */
+.head-contact{
+    margin-left: 750px;
+    margin-top: 40px;
+    font-family: "Roboto";
+    font-size: 19px;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+  }
+  .contact-icon{
+    padding-right: 1px;
+    margin-left: 700px;
+    color: white;
+    margin-top: 38px;
+    width: 26px;
+    position: absolute;
+  }
+
+
+/* About */
+.head-about{
+  margin-left: 100px;
+  margin-top: -29px;
+    font-family: "Roboto";
+    font-size: 19px;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+}
+.about-icon{
+    padding-right: 1px;
+   margin-left: 50px;
+   color: white;
+    margin-top: 40px;
+    width: 26px;
+   
+}
+/* Login/SignUp */
+.Sign-login{
+    background-color: #5AC37A;
+    border: #5AC37A;
+    height: 50px;
+    width: 230px;
+    margin-left: 60px;
+    margin-top: 25px;
+    border-radius: 5px;
+  
+}
+
+.head-signup{
+    margin-top:-25px;
+    font-family: "Roboto";
+    font-size: 19px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    margin-left: 65px;
+    position: absolute;
+    
+}
+.signup-icon{
+    padding-right: 1px;
+    margin-left: -150px;
+    color: white;
+    margin-top: 5px;
+    width: 22px;
+}
+
+
+/* Container-2 */
+.container-2{
+   background-color: rgb(255, 255, 255);
+   margin-top: 118px;
+   height: 50px;
+   display: flex;
+   width: 1922px;
+   position: relative;
+   margin-left: -10px;
+}
+
+.menu{
+    margin-top: -10px;
+    margin-left: 150px;
+}
+
+.list1{
+  color: black;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-size: 19px;
+  font-weight: 300;
+  margin-right: 45px;
+  display: inline-block;
+  margin-top: 16px;
+  margin-left: 28px;
+  
+}
+.icon1{
+    position: absolute;
+    width: 20px;
+    padding-top: 10px;
+    margin-left: -2px;
+    margin-top: 9px;
+}
+.icon2{
+    position: absolute;
+    width: 20px;
+    padding-top: 10px;
+    margin-left: -2px;
+    margin-top: 9px;
+}
+.icon3{
+    position: absolute;
+    width: 20px;
+    padding-top: 10px;
+    margin-left: -2px;
+    margin-top: 9px;
+}
+.icon4{
+    position: absolute;
+    width: 20px;
+    padding-top: 10px;
+    margin-left: -2px;
+    margin-top: 9px;
+}
+.icon5{
+    position: absolute;
+    width: 20px;
+    padding-top: 10px;
+    margin-left: -2px;
+    margin-top: 9px;
+}
+
+.green-selection{
+    height: 6px;
+    width: 150px;
+    background-color: #5AC37A;
+    border-color: #5AC37A;
+    position: absolute;
+    margin-top: 44px; 
+    margin-left: 145px;
+}
+.line-1{
+    text-decoration: none;
+    font-size: 1rem;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 60px;
+}
+.line-2{
+    margin-left: 120px;
+    font-size: 1.2rem;
+    margin-top: -10px;
+    color: #0050B6;
+    font-family: "Roboto";
+}
+
+.line-img{
+  width: 50px;
+  margin-top: 10px;
+  position: absolute;
+  margin-left: 40px;
+
+}
+.chevron1{
+    position: absolute;
+    margin-top: -55px;
+    width: 33px;
+    margin-left: 400px;
+}
+.chevron2{
+    position: absolute;
+    width: 20px;
+    margin-left: -40px;
+    margin-top: 14px;
+}
+
+/* Container-3 */
+.container-3{
+   display: flex;
+   width: 1922px;
+   margin-left: -10px;
+   height: 750px;
+}
+
+.pink-container{
+background-color: #ECF4FE;
+height: 68px;
+width: 450px;
+margin-top: -68px;
+margin-left: 1215px;
+position: absolute;
+
+}
+
+.Heading{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 60px;
+    margin-top: -640px;
+    margin-left: 130px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+.head-container{
+height: 130px;
+width: 1600px;
+background-color: rgb(255, 255, 255);
+margin-left: 133px;
+position: absolute;
+margin-top: -450px;
+opacity: 92%;
+}
+.vl1 {
+    border-left: 2px solid rgb(0, 0, 0);
+    height:100px;
+    margin-left: 400px;
+    margin-top: 16px;
+    opacity: 20%;
+  }
+  .vl2 {
+    border-left: 2px solid rgb(0, 0, 0);
+    height:100px;
+    margin-left: 800px;
+    margin-top: -100px;
+    opacity: 20%;
+  }
+  .vl3 {
+    border-left: 2px solid rgb(0, 0, 0);
+    height:100px;
+    margin-left: 1200px;
+    margin-top: -100px;
+    opacity: 20%;
+  }
+  .content1{
+      margin-top: -110px;
+      margin-left: 70px;
+      font-size: 1.6rem;
+      font-weight: 700;
+      font-family: "Roboto";
+      letter-spacing: 1px;
+
+  }
+
+  .content1-img{
+      margin-left: -30px;
+      margin-top: 21px;
+      width: 25px;
+      padding-right: 10px;
+      display: inline-block;
+  }
+  .content-select1{
+      font-size: 18px;
+      margin-left: -30px;
+      color: #2e76cd;
+      font-family: "Roboto";
+      font-weight: 400;
+      
+      position: absolute;
+     
+  }
+.chevron3{
+    width: 25px;
+    margin-top: -2px;
+    position: absolute;
+    padding-left: 8px;
+}
+.content2{
+    margin-top: -420px;
+    margin-left: 70px;
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-family: "Roboto";
+    letter-spacing: 1px;
+    position: absolute;
+
+}
+.content2-img{
+    margin-left: 500px;
+    margin-top: -610px;
+    padding-right: 10px;
+    width: 25px;
+    position: relative;
+}
+.content-select2{
+    font-size: 18px;
+    margin-left: 510px;
+    color: #2e76cd;
+    font-family: "Roboto";
+    font-weight: 400;
+    position: absolute;
+    width: 140px;
+   
+}
+.content3{
+    margin-top: -420px;
+    margin-left: 770px;
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-family: "Roboto";
+    letter-spacing: 1px;
+    position: absolute;
+
+}
+.content3-img{
+    margin-left: 200px;
+    margin-top: -710px;
+    padding-right: 10px;
+    width: 30px;
+    position: relative;
+}
+.content-select3{
+    font-size: 18px;
+    margin-left: 220px;
+    color: #2e76cd;
+    font-family: "Roboto";
+    font-weight: 400;
+    position: absolute;
+    
+   
+}
+.chevron4{
+    margin-left: 10px;
+    position: absolute;
+    width: 28px;
+}
+
+.content4{
+    margin-top: -420px;
+    margin-left: 70px;
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-family: "Roboto";
+    letter-spacing: 1px;
+    position: absolute;
+}
+.content4-img{
+    margin-left: 1300px;
+    margin-top: -600px;
+    padding-right: 10px;
+    width: 25px;
+    position: relative;
+}
+.content-select4{
+    font-size: 18px;
+    margin-left: 1320px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    position: absolute;
+    opacity: 40%;
+   
+}
+.powered{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 135px;
+    color: white;
+    font-family: "Roboto";
+}
+.powered-img{
+    width: 250px;
+}
+
+.green-button{
+    width: 350px;
+    height: 80px;
+    background-color: #5AC37A;
+    border: #5AC37A;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: -245px;
+    margin-left: 1380px;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+.footer{
+    color: white;
+    position: absolute;
+    margin-top: -100px;
+    font-family: "Roboto";
+    font-size: 0.9rem;
+    margin-left: 800px;
+    opacity: 75%;
+}
